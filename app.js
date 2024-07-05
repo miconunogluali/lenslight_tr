@@ -8,4 +8,3 @@ app.get('/', (req, res) => {
 });
 
 app.listen(port, () => console.log(`Application running on port : ${port}`));
-// const ali = 'En ateşli Alevi';
